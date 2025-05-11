@@ -1,0 +1,22 @@
+{
+  "name": "hrms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UmairBewnak/hrms.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UmairBewnak/hrms/issues"
+  },
+  "homepage": "https://github.com/UmairBewnak/hrms#readme",
+  "devDependencies": {
+    "vite": "^6.3.5"
+  }
+}
